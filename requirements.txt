@@ -1,6 +1,6 @@
 streamlit
 anthropic
-chromadb
+chromadb==0.4.24
 sentence-transformers
 pypdf
 python-docx
